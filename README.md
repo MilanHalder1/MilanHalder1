@@ -2,79 +2,74 @@
 
 <h1 align="center">Hi there 👋, I'm Milan Halder</h1>
 
+<p align="center"><b>Full Stack Web Developer</b></p>
+
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Laravel+%26+PHP+Specialist;REST+API+for+Web+%26+Mobile+Apps;ERP+%26+E-Commerce+Systems;Available+for+Freelance+Projects"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Laravel+%26+PHP+Specialist;Backend+%26+REST+API+Developer;ERP+%26+E-Commerce+Systems;Available+for+Freelance+Projects" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MilanHalder1&label=Profile+Views&color=58A6FF&style=flat-square" />
 </p>
 
----
+<hr/>
 
-<!-- ================= SIDE BY SIDE ================= -->
+<!-- ================= ABOUT + SKILLS ================= -->
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
 
 <!-- LEFT COLUMN -->
-<td width="60%" valign="top">
+<td width="68%" valign="top">
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-- 💼 **Full Stack Web Developer** (Backend & API focused)  
-- 🏗️ Building **ERP, E-Commerce & Admin Systems**  
-- 🔗 Secure & scalable **REST APIs**  
-- 📱 Backend APIs for **Flutter & React Native**  
-- ☁️ AWS deployment & cloud-ready architecture  
+- 💼 **Full Stack Web Developer** (Backend & API focused)
+- 🧩 Skilled in **Laravel, PHP, CodeIgniter**
+- 🏗️ Building **ERP & E-Commerce Systems**
+- 🔐 Secure & scalable **REST APIs**
+- 📱 Backend for **Flutter & React Native**
+- ☁️ AWS-ready cloud architecture
+
+<br/>
 
 ### 🟢 Freelancing Status
+<img src="https://img.shields.io/badge/Available_for_Freelance-2ea44f?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Status-Available_for_Freelance-2ea44f?style=for-the-badge" />
+**Open to**
+- Long-term contracts
+- Backend/API work
+- Startup MVPs
 
-💡 **Open to:**
-- Long-term freelance projects  
-- Backend / API contracts  
-- Startup MVP development  
+<br/>
 
-📬 **Contact**  
+### 📬 Contact
 📧 **Email:** `milanhalder9196@gmail.com`
 
-🌐 **Connect with me**  
+### 🌐 Connect with me
 <a href="https://www.linkedin.com/in/milan-halder-a65323222">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="32"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="28"/>
 </a>
 <a href="https://github.com/MilanHalder1">
-  <img src="https://skillicons.dev/icons?i=github" height="32"/>
+  <img src="https://skillicons.dev/icons?i=github" height="28"/>
 </a>
 
 </td>
 
 <!-- RIGHT COLUMN -->
-<td width="40%" align="center">
+<td width="32%" valign="top">
 
-<img 
-  src="https://skillicons.dev/icons?i=laravel"
-  height="200"
-  alt="Laravel"
-/>
+### 🧠 Core Skills
 
-<br/><br/>
-
-<img 
-  src="https://skillicons.dev/icons?i=php"
-  height="160"
-  alt="PHP"
-/>
+<img src="https://skillicons.dev/icons?i=laravel" height="150"/><br/><br/>
+<img src="https://skillicons.dev/icons?i=php" height="120"/>
 
 </td>
 
 </tr>
 </table>
 
----
+<hr/>
 
 <!-- ================= TECH STACK ================= -->
 
@@ -108,10 +103,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
----
+<hr/>
+
+<!-- ================= FOOTER ================= -->
 
 <p align="center"><i>Building reliable backend systems that scale 🚀</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=110&section=footer"/>
 </p>
