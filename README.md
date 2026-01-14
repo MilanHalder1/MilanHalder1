@@ -1,14 +1,10 @@
-<!-- ================= PROFILE CARD ================= -->
+<!-- ================= HEADER ================= -->
 
-<h1 align="center">👋 Hi, I'm Milan Halder</h1>
-
-<h3 align="center">
-  Full Stack Web Developer • Backend & API Specialist
-</h3>
+<h1 align="center">Hi there 👋, I'm Milan Halder</h1>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Laravel+%26+PHP+Developer;REST+API+for+Web+%26+Mobile+Apps;ERP+%26+E%E2%80%91Commerce+Systems;Clean+%26+Scalable+Architecture" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Laravel+%26+PHP+Specialist;REST+API+for+Web+%26+Mobile+Apps;ERP+%26+E-Commerce+Systems;Available+for+Freelance+Projects"
   />
 </p>
 
@@ -18,53 +14,60 @@
 
 ---
 
+<!-- ================= SIDE BY SIDE ================= -->
+
 <table width="100%">
 <tr>
 
 <!-- LEFT COLUMN -->
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-### ✨ About Me
+### 👨‍💻 About Me
 
 - 💼 **Full Stack Web Developer** (Backend & API focused)  
-- 🏗️ Building **E-Commerce platforms**, **ERP systems**, **Admin Dashboards**  
-- 🔗 Designing secure & scalable **REST APIs**  
-- 📱 Backend APIs for **Flutter** & **React Native**  
-- ☁️ AWS deployment & scalable architecture  
+- 🏗️ Building **ERP, E-Commerce & Admin Systems**  
+- 🔗 Secure & scalable **REST APIs**  
+- 📱 Backend APIs for **Flutter & React Native**  
+- ☁️ AWS deployment & cloud-ready architecture  
 
-### 📬 Contact
-- 📧 **Email:** milanhalder9196@gmail.com  
-- 💼 **LinkedIn:**  
-  <a href="https://www.linkedin.com/in/milan-halder-a65323222">
-    milan-halder-a65323222
-  </a>
+### 🟢 Freelancing Status
+
+<img src="https://img.shields.io/badge/Status-Available_for_Freelance-2ea44f?style=for-the-badge" />
+
+💡 **Open to:**
+- Long-term freelance projects  
+- Backend / API contracts  
+- Startup MVP development  
+
+📬 **Contact**  
+📧 **Email:** `milanhalder9196@gmail.com`
+
+🌐 **Connect with me**  
+<a href="https://www.linkedin.com/in/milan-halder-a65323222">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="32"/>
+</a>
+<a href="https://github.com/MilanHalder1">
+  <img src="https://skillicons.dev/icons?i=github" height="32"/>
+</a>
 
 </td>
 
 <!-- RIGHT COLUMN -->
-<td width="45%" valign="top" align="center">
+<td width="40%" align="center">
 
-### 🧠 Tech Stack
-
-#### 🖥 Backend
-<img src="https://skillicons.dev/icons?i=php,laravel" height="40"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white"/>
-
-<br/><br/>
-
-#### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=vue,angular,html,css,bootstrap,javascript" />
+<img 
+  src="https://skillicons.dev/icons?i=laravel"
+  height="200"
+  alt="Laravel"
+/>
 
 <br/><br/>
 
-#### 🗄 Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-<br/><br/>
-
-#### ⚙️ Tools & Cloud
-<img src="https://skillicons.dev/icons?i=git,github,aws" />
+<img 
+  src="https://skillicons.dev/icons?i=php"
+  height="160"
+  alt="PHP"
+/>
 
 </td>
 
@@ -73,8 +76,42 @@
 
 ---
 
-<p align="center"><i>Building reliable backend systems that scale.</i></p>
+<!-- ================= TECH STACK ================= -->
+
+## 💻 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</p>
+
+---
+
+<p align="center"><i>Building reliable backend systems that scale 🚀</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
 </p>
